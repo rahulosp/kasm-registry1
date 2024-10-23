@@ -2,15 +2,15 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
+    name: 'ATX Registry1',
     description: 'The official store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
+    listUrl: 'https://rahulosp.github.io/kasm-registry1/',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
   swcMinify: true,
-  basePath: '/kasm-registry/1.0',
+  basePath: '/kasm-registry1/1.0',
   trailingSlash: true,
   images: {
     unoptimized: true,
